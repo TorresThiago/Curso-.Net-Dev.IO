@@ -2,7 +2,6 @@ C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\A
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.dll
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\bin\Debug\net5.0\ref\DevIO.Business.dll
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\bin\Debug\net5.0\DevIO.Business.pdb
-C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfoInputs.cache
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\A
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.dll
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\ref\DevIO.Business.dll
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.pdb
+C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Business\obj\Debug\net5.0\DevIO.Business.csproj.AssemblyReference.cache

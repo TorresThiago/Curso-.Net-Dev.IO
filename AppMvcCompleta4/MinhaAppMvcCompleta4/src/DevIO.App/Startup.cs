@@ -14,6 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using DevIO.Business.Interfaces;
 using DevIO.Data.Context;
+using DevIO.Data.Repository;
 
 namespace DevIO.App
 {
@@ -46,9 +47,9 @@ namespace DevIO.App
             services.AddAutoMapper(typeof(Startup));
 
             services.AddScoped<MeuDbContext>();
-            services.AddScoped<IProdutoRepository>();
-            services.AddScoped<IFornecedorRepository>();
-            services.AddScoped<IEnderecoRepository>();
+            services.AddScoped<IProdutoRepository, ProdutoRepository>();
+            services.AddScoped<IFornecedorRepository, FornecedorRepository>();
+            services.AddScoped<IEnderecoRepository, EnderecoRepository>();
 
         }
 
