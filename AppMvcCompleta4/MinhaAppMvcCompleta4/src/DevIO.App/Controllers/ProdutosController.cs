@@ -43,8 +43,8 @@ namespace DevIO.App.Controllers
 
         public async Task<IActionResult> Create()
         {
-            var produtoViewModel = PopularFornecedores(new ProdutoViewModel());
-            return View();
+            var produtoViewModel = await PopularFornecedores(new ProdutoViewModel());
+            return View(produtoViewModel);
         }
 
         [HttpPost]

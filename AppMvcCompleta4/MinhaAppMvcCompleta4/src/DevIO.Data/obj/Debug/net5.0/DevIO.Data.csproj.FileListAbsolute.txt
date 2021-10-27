@@ -16,3 +16,21 @@ C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\A
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\ref\DevIO.Data.dll
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.pdb
 C:\Users\Thiago Torres\Documents\Curso.Net Core\Projetos - Curso Intermediario\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.genruntimeconfig.cache
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.deps.json
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.runtimeconfig.json
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.runtimeconfig.dev.json
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.dll
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\ref\DevIO.Data.dll
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Data.pdb
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.dll
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\bin\Debug\net5.0\DevIO.Business.pdb
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.AssemblyReference.cache
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfoInputs.cache
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.AssemblyInfo.cs
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.csproj.CopyComplete
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.dll
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\ref\DevIO.Data.dll
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.pdb
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.Data\obj\Debug\net5.0\DevIO.Data.genruntimeconfig.cache

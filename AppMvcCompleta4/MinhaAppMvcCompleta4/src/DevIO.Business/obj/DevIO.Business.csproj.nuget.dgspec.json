@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {}
+    "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
         "packagesPath": "C:\\Users\\Thiago Torres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5998,11 +5998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectUniqueName": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
       "projectName": "DevIO.Data",
-      "projectPath": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
+      "projectPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
       "packagesPath": "C:\\Users\\Thiago Torres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\obj\\",
+      "outputPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6022,8 +6022,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {
-              "projectPath": "C:\\Users\\Thiago Torres\\Documents\\Curso.Net Core\\Projetos - Curso Intermediario\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj"
+            "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {
+              "projectPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj"
             }
           }
         }
