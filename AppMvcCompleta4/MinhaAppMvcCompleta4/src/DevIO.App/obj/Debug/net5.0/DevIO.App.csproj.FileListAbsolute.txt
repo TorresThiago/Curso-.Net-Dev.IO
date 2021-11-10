@@ -368,3 +368,5 @@ C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.
 C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.App\obj\Debug\net5.0\DevIO.App.genruntimeconfig.cache
 C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
 C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.App\bin\Debug\net5.0\libman.json
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_DetalhesEndereco.cshtml.g.cs
+C:\repositorio\Curso-.Net-Dev.IO\AppMvcCompleta4\MinhaAppMvcCompleta4\src\DevIO.App\obj\Debug\net5.0\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs

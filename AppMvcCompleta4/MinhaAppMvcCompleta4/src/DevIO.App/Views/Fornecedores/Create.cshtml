@@ -24,8 +24,11 @@
                 <span asp-validation-for="Documento" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="TipoFornecedor" class="control-label"></label>
-                <input asp-for="TipoFornecedor" class="form-control"/>
+                <label asp-for="TipoFornecedor"></label>
+                <br />
+                <input type="radio" value="1" asp-for="TipoFornecedor" /> Pessoa Física
+                <br />
+                <input type="radio" value="1" asp-for="TipoFornecedor" /> Pessoa jurídica
                 <span asp-validation-for="TipoFornecedor" class="text-danger"></span>
             </div>
             <div class="form-group form-check">
