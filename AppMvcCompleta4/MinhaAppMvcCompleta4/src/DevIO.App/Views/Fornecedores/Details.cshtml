@@ -2,7 +2,7 @@
 @model DevIO.App.ViewModels.FornecedorViewModel
 
 @{
-    ViewData["Title"] = "Detalhes do produto";
+    ViewData["Title"] = "Detalhes";
 }
 
 <h1>@ViewData["Title"]</h1>
@@ -33,8 +33,8 @@
 </div>
 
 <div>
-    <a class="btn btn-dark" asp-action="Edit" asp-route-id="@Model.Id">Editar</a>
-    <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
+    <a class="btn btn-dark" supress-by-claim-name="Fornecedor" supress-by-claim-value="Editar" asp-action="Edit" asp-route-id="@Model.Id" data-modal="">Editar</a>
+    <a class="btn btn-info" asp-action="Index">Voltar</a>
 </div>
 
 <partial name="_DetalhesEndereco" />

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jmzh+Ra+kKJTYN5o0Rj2lu+wEVcL+TbOHEcbph4K/SbhoIUFxSy19mQGNyp1Xs1OucuyrU+YWXJCt5Mw8xfICQ==",
+  "dgSpecHash": "MffGiMbCdh+SIdUEfr7c3c9UvPdeAkReJH/Co6ljnIihw56dpeF9ky+WBGiKnUKY91HEU2pkpip1kMzVj+3xCQ==",
   "success": true,
   "projectFilePath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Thiago Torres\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

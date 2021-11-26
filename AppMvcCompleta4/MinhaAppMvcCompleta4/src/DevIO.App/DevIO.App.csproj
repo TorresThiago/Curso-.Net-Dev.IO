@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <PackageReference Include="automapper.extensions.microsoft.dependencyinjection" Version="8.1.1" />
+    <PackageReference Include="FluentValidation" Version="10.3.4" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="10.3.4" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="5.0.8" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.8" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.8" />
@@ -21,6 +23,21 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\imagens\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="appsettings - Copy - Copy.Staging.Development.json">
+      <DependentUpon>appsettings - Copy.Staging.Development.json</DependentUpon>
+    </Content>
+    <Content Update="appsettings - Copy - Copy.Staging.json">
+      <DependentUpon>appsettings - Copy.Staging.json</DependentUpon>
+    </Content>
+    <Content Update="appsettings - Copy.Staging.Development.json">
+      <DependentUpon>appsettings.Staging.Development.json</DependentUpon>
+    </Content>
+    <Content Update="appsettings - Copy.Staging.json">
+      <DependentUpon>appsettings.Staging.json</DependentUpon>
+    </Content>
   </ItemGroup>
 
 </Project>

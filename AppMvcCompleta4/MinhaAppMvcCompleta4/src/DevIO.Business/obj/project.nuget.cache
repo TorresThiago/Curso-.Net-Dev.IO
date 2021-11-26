@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7y/7sZmrlI2+AMOZT5CM6o3MsMJ7sDusgoyvQrui/RgA7Mp8KyI/SYulL8hkQ+PYDiuQ5k4GIbipo70lS0tJUw==",
+  "dgSpecHash": "AjiQDFSBhZiJi5YcLhZ7JiVqYNytddjbIc+eCzKKKZ60TD6/FPugDDd2TBk32afS0QvymwuBRHjZzvKL8BLicQ==",
   "success": true,
   "projectFilePath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Torres\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512"
+  ],
   "logs": []
 }
