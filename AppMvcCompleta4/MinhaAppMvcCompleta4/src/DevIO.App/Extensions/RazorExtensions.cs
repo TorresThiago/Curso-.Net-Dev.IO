@@ -17,9 +17,9 @@ namespace DevIO.App.Extensions
                 : Convert.ToUInt64(documento).ToString(@"00\.000\.000\/0000\-00");
         }
 
-        public static string RemovePontuacaoDocumento(string documento)
+        private static string RemovePontuacaoDocumento(string documento)
         {
-            return Regex.Replace(documento, "[0-9]+", "gi");
+            return Regex.Replace(documento, "[0-9]+", "g");
         }
     }
 }
