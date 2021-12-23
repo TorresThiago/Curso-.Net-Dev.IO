@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-DevIO.App-1449CA3D-949E-42E0-899F-D64AAFE481B9</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

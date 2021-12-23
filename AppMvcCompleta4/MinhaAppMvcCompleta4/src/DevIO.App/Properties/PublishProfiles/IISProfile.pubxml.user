@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2021-12-23T14:40:35.5559138Z;False|2021-12-23T11:39:51.0490398-03:00;False|2021-12-23T11:32:52.8498749-03:00;True|2021-12-23T11:27:54.3513851-03:00;True|2021-12-22T18:15:47.5632823-03:00;True|2021-12-22T17:43:59.6840056-03:00;True|2021-12-22T15:00:42.3776531-03:00;True|2021-12-22T15:00:12.0844467-03:00;True|2021-12-22T14:57:29.8283967-03:00;True|2021-12-21T17:37:05.1914319-03:00;True|2021-12-21T16:38:13.7291470-03:00;True|2021-12-21T12:11:36.7617842-03:00;True|2021-12-20T13:31:09.7258076-03:00;True|2021-12-20T10:54:49.1978758-03:00;True|2021-12-18T19:43:33.4391975-03:00;True|2021-12-18T02:03:43.1006025-03:00;False|2021-12-18T01:45:59.3849243-03:00;False|2021-12-18T01:36:33.1149745-03:00;True|2021-12-18T01:09:17.1557695-03:00;False|2021-12-18T00:35:16.7823810-03:00;False|2021-12-18T00:33:07.7387575-03:00;False|2021-12-18T00:32:30.0001680-03:00;True|2021-12-18T00:28:16.4636174-03:00;True|2021-12-17T15:35:42.8714172-03:00;False|2021-12-17T12:15:35.7895192-03:00;False|2021-12-17T12:15:01.5280612-03:00;False|2021-12-17T12:14:23.6997229-03:00;True|2021-12-16T13:23:07.4673738-03:00;False|2021-12-16T13:21:41.9972851-03:00;True|2021-12-16T12:21:25.0508259-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=DESKTOP-88DDHB7\\SQLEXPRESS%3bInitial Catalog=MinhaAppMvcCompleta%3bIntegrated Security=True%3bConnect Timeout=60%3bEncrypt=False%3bTrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False%3b User ID=estudo%3bPassword=estudo12345%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
