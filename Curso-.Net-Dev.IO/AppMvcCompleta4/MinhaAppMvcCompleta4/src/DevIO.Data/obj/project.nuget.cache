@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MffGiMbCdh+SIdUEfr7c3c9UvPdeAkReJH/Co6ljnIihw56dpeF9ky+WBGiKnUKY91HEU2pkpip1kMzVj+3xCQ==",
+  "dgSpecHash": "7F6CIPTkc92nWFkgmU6jrECY6HRYXfGjA6/NONm3LZXoainEKADjOT3153PXbh7n6Xpf0OTiIOWOc14cBqlV2g==",
   "success": true,
-  "projectFilePath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
+  "projectFilePath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",

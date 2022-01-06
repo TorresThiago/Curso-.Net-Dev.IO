@@ -7972,11 +7972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectUniqueName": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\DevIO.App.csproj",
       "projectName": "DevIO.App",
-      "projectPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\DevIO.App.csproj",
+      "projectPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\DevIO.App.csproj",
       "packagesPath": "C:\\Users\\Thiago Torres\\.nuget\\packages\\",
-      "outputPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\obj\\",
+      "outputPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7996,8 +7996,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj": {
-              "projectPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj"
+            "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj": {
+              "projectPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Data\\DevIO.Data.csproj"
             }
           }
         }

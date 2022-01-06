@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R/RXhFz0ZPfQYVbrfVwAbKJjEyeuT7zqNQjN80expUAupVxlgipy4n/aeaDD7Fhy7TGC86r62faLg6ks1EFFNg==",
+  "dgSpecHash": "xaEMUF+wKqeZbbGkhJFpogzuJnah5jfPgq1eK2XeywLm28DyvDZ3E8A7/5T4Tj7U/mY9y5LMRMptNg2l63CLIQ==",
   "success": true,
-  "projectFilePath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\DevIO.App.csproj",
+  "projectFilePath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.App\\DevIO.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Thiago Torres\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

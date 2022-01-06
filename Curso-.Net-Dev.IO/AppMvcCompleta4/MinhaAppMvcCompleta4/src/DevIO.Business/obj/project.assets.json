@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
+      "projectPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
       "packagesPath": "C:\\Users\\Thiago Torres\\.nuget\\packages\\",
-      "outputPath": "C:\\repositorio\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\obj\\",
+      "outputPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

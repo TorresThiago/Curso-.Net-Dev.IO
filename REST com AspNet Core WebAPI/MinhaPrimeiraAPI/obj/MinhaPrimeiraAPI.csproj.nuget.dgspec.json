@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {}
+    "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\REST com AspNet Core WebAPI\\MinhaPrimeiraAPI\\MinhaPrimeiraAPI.csproj": {}
   },
   "projects": {
-    "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj": {
+    "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\REST com AspNet Core WebAPI\\MinhaPrimeiraAPI\\MinhaPrimeiraAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
-        "projectName": "DevIO.Business",
-        "projectPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\REST com AspNet Core WebAPI\\MinhaPrimeiraAPI\\MinhaPrimeiraAPI.csproj",
+        "projectName": "MinhaPrimeiraAPI",
+        "projectPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\REST com AspNet Core WebAPI\\MinhaPrimeiraAPI\\MinhaPrimeiraAPI.csproj",
         "packagesPath": "C:\\Users\\Thiago Torres\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\Curso-.Net-Dev.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\REST com AspNet Core WebAPI\\MinhaPrimeiraAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,9 +43,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "FluentValidation": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[10.3.4, )"
+              "version": "[5.6.3, )"
             }
           },
           "imports": [
@@ -59,6 +59,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
