@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="curso.mvc" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\repositorio\\Curso-\.Net-Dev\.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO\.App\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\repositorio\\Projetos\ Curso\ Desenvolvedor\.io\\Curso-\.Net-Dev\.IO\\AppMvcCompleta4\\MinhaAppMvcCompleta4\\src\\DevIO\.App\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>
