@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBzhPKEY3hdBnOmGB6PmjoVoGhxAIN/O/s1TAeQo0bURH9AdAZzOBthAxo1fFI9wHn7szf1kXGTiH/Ie3k9K0w==",
+  "success": true,
+  "projectFilePath": "C:\\repositorio\\Projetos Curso Desenvolvedor.io\\REST com AspNet Core WebAPI\\MinhaAPICompleta\\MinhaAPICompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago Torres\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
