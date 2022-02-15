@@ -39,6 +39,11 @@ namespace DevIO.Api
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DevIO.Api", Version = "v1" });
             });
 
+            services.Configure<ApiBehaviorOptions>(options =>
+            {
+                options.SuppressModelStateInvalidFilter = true;
+            });
+
             services.AddAutoMapper(typeof(Startup));
 
             services.ResolveDepedencies();
