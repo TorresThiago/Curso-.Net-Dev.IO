@@ -12,6 +12,7 @@ C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\Minha
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\FluentValidation.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Humanizer.dll
+C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
@@ -37,7 +38,6 @@ C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\Minha
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

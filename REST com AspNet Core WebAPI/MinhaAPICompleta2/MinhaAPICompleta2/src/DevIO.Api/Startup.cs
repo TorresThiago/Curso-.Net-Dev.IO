@@ -36,6 +36,11 @@ namespace DevIO.Api
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DevIO.Api", Version = "v1" });
             });
 
+            services.AddDbContext<MeuDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
+
             services.AddAutoMapper(typeof(Startup));
 
             services.AddApiConfig();
@@ -57,6 +62,7 @@ namespace DevIO.Api
             app.UseCors("Development");
 
             app.UseApiConfig(env);
+            app.UseAuthorization();
         }
     }
 }
