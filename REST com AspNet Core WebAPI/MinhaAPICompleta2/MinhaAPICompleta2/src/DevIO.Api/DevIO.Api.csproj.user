@@ -6,5 +6,6 @@
   <PropertyGroup>
     <ActiveDebugProfile>DevIO.Api</ActiveDebugProfile>
     <ShowAllFiles>true</ShowAllFiles>
+    <NameOfLastUsedPublishProfile>C:\repositorio\Projetos Curso Desenvolvedor.io\REST com AspNet Core WebAPI\MinhaAPICompleta2\MinhaAPICompleta2\src\DevIO.Api\Properties\PublishProfiles\IISProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="curso.webapi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\repositorio\\Projetos\ Curso\ Desenvolvedor\.io\\REST\ com\ AspNet\ Core\ WebAPI\\MinhaAPICompleta2\\MinhaAPICompleta2\\src\\DevIO\.Api\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

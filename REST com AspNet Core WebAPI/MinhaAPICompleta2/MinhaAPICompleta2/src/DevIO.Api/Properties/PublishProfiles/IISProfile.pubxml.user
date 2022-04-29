@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2022-04-29T05:00:39.1596957Z;False|2022-04-29T01:59:28.8179334-03:00;True|2022-04-29T01:42:18.5669493-03:00;True|2022-04-29T01:24:49.0510492-03:00;True|2022-04-29T01:24:03.9152060-03:00;True|2022-04-29T00:48:12.5409779-03:00;True|2022-04-29T00:45:09.6574728-03:00;True|2022-04-29T00:03:11.5826613-03:00;True|2022-04-28T15:24:24.2972695-03:00;True|2022-04-28T02:29:27.6761783-03:00;True|2022-04-28T02:11:09.0887148-03:00;True|2022-04-28T01:20:40.0503849-03:00;True|2022-04-28T00:51:39.6781717-03:00;True|2022-04-28T00:36:03.1783042-03:00;True|2022-04-28T00:35:49.3470592-03:00;True|2022-04-28T00:32:20.8589330-03:00;True|2022-04-28T00:28:24.2215215-03:00;</History>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\curso.webapi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=DESKTOP-88DDHB7\SQLEXPRESS%3bInitial Catalog=MinhaAPICore2%3bUser ID=thiago_estudo%3bPassword=estudo1234%3bIntegrated Security=True%3bConnect Timeout=30%3bEncrypt=False%3bTrustServerCertificate=False%3bApplicationIntent=ReadWrite%3bMultiSubnetFailover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
