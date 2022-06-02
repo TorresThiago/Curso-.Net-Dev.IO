@@ -1,0 +1,3 @@
+..:: comandos servidor json ::..
+
+C:\repositorio\Projetos Curso Desenvolvedor.io\Angular\Iniciante\MeuProjeto>json-server --watch produtos.json
