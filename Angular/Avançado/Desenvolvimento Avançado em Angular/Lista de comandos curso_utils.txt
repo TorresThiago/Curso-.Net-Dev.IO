@@ -1,3 +1,16 @@
 ..:: comandos servidor json ::..
 
 C:\repositorio\Projetos Curso Desenvolvedor.io\Angular\Iniciante\MeuProjeto>json-server --watch produtos.json
+
+
+Promises VS Observable
+Retorno do resultado de umaAPI REst (json)
+Promise: Entrega 2 resultados: erro ou sucesso
+
+Observable: Mais complexo. É uma promise mas possui mais recursos. Pode retornar dados mas diferente da promise, ela pode continuar fornecendo dado. Pode fornecer mais de uma vez dados. Fica viva. Entrega dados toda a vez que tiver dado pra ser entregue
+Ao retornar um erro, ela morre.
+
+ng n RXJS --minimal=true
+
+https://www.npmjs.com/package/ng-brazil -> plugin para validação e mascaras somente para o Brasil
+https://www.npmjs.com/package/ng2-validation -> 

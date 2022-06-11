@@ -17,6 +17,10 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { registerLocaleData } from "@angular/common";
 import localePt from '@angular/common/locales/pt';
 import { CadastroComponent } from './demos/reactiveForms/cadastro/cadastro.component';
+
+import { NgBrazil } from 'ng-brazil';
+import { TextMaskModule } from 'angular2-text-mask';
+
 registerLocaleData(localePt);
 
 
