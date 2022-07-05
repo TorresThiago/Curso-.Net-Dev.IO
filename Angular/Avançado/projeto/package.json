@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@narik/custom-validators": "^7.0.1"
+  }
+}

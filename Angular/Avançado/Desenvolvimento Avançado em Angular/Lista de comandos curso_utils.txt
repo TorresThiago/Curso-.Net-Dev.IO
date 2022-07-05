@@ -14,3 +14,43 @@ ng n RXJS --minimal=true
 
 https://www.npmjs.com/package/ng-brazil -> plugin para validação e mascaras somente para o Brasil
 https://www.npmjs.com/package/ng2-validation -> 
+
+
+..:: Comandos curso avançado ::..
+
+https://localhost/swagger/index.html
+
+1 atualizar a versão do angular CLI
+
+COmandos: 
+ng new front-end
+S
+
+:: verificar versão::
+ng version
+
+
+:: Instalar Ng Bootstrap ::
+https://ng-bootstrap.github.io/#/getting-started
+ng add @ng-bootstrap/ng-bootstrap
+
+:: criando componentes ::
+
+ng g c navegacao/menu
+
+ng g c conta/cadastro
+
+:: Criando modulo Conta ::
+ng g module conta
+
+npm uninstall ngx-custom-validators
+npm i ngx-custom-validators@8.0.0
+
+Erro no cadastro.component.ts, deve-se desabilitar (false) o strict mode nos arquivos:
+tsconfig.json e angular.json
+
+Pacote opcional na substituição do CustomValidators no Angular CLI 13:
+npm i @narik/custom-validators
+
+erros no *ngIf="errors.length > 0" de propriedade
+Solução: Resolvido apenas em desabilitar no ts.config.json o atributo "noPropertyAcessFromIndexSignature" para false.
